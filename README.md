@@ -1,5 +1,5 @@
 # wallpaper dump
 
-> a massive library of "mostly" high quality wallpapers with absolutely zero AI slop
+a massive wallpaper library designed to work with my swaywm rice / wallpaper picker script, with zero AI slop it contains mostly high resolution wallpapers
 
-please make an issue for any take-downs and/or missing mentions
+please make a issue for any take down requests or missing artist attributions
